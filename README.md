@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
 
+
+
+## [site demo](https://khalilhasan23.github.io/Foton-landing-page/)
+
+
+## project screenshot
+![](https://github.com/khalilhasan23/Foton-landing-page/blob/main/Screenshot.png)
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
