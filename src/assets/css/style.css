@@ -1,0 +1,220 @@
+.log{
+    background-color: #58468c;
+    height: 51px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.nli{
+    margin-left: 36px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #58468c;
+}
+
+.nli:hover{
+    color: RGB(255, 138, 115);
+}
+
+.naic{
+    font-size: 20px;
+    color: #58468c;
+    cursor: pointer;
+}
+
+.naic2{
+    background-color: #58468c;
+    font-size: 22px;
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+
+.naic2:hover{
+    background-color: RGB(255, 138, 115);
+}
+
+.naic:hover{
+    color: RGB(255, 138, 115);
+}
+
+.sc1b{
+    background-image: url(..//img/digital-agency-slider-1.jpg);
+    height: 656px;
+}
+
+.sc1h{
+    color: white;
+    font-size: 56px;
+    margin-top: 94px;
+    font-family: cursive;
+
+}
+
+.sc1p{
+    color: white;
+    margin-top: 32px;
+    font-family: emoji;
+
+}
+
+.sc1a1{
+    color: white;
+    text-decoration: none;
+    margin-top: 30px;
+    display: inline-block;
+    background-color: #FF8A73;
+    padding: 11px;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.sc1a1:hover{
+    -webkit-box-shadow: 1px 5px 26px 8px #FF8A73; 
+    box-shadow: 1px 5px 26px 8px #FF8A73;
+}
+
+.sc1a2{
+    color: white;
+    text-decoration: none;
+    margin-top: 30px;
+    display: inline-block;
+    background-color: #5580FF;
+    padding: 11px;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 60px;
+}
+
+
+.sc1a2:hover{
+    -webkit-box-shadow: 1px 5px 26px 8px #5580FF; 
+    box-shadow: 1px 5px 26px 8px #5580FF;
+}
+
+.sc2im{
+    width: 411px;
+    height: 324px;
+}
+
+.sc2h3{
+    color: #58468C;
+}
+
+.sc2p{
+    color: RGB(113, 108, 128);
+}
+
+.sc2a{
+    text-decoration: none;
+    color: #58468C;
+    font-size: 14px;
+}
+
+#sc2ico{
+    color: #58468C;
+    margin-left: 18px;
+    margin-top: 5px;
+}
+
+.sc2di{
+    cursor: pointer;
+}
+
+.sc2di:hover .sc2a{
+    color: #FF8A73;
+}
+
+.sc2di:hover #sc2ico{
+    color: #FF8A73;
+}
+
+.sc3h3{
+    color: #58468C;
+    text-align: right;
+}
+
+.sc3p{
+    color: RGB(113, 108, 128);
+    text-align: right;
+
+}
+
+.sc3im{
+    position: absolute;
+    margin-left: 336px;
+    margin-top: -119px;
+}
+
+
+.sc3h32{
+    color: #58468C;
+    margin-left: 12px;
+}
+
+.sc3p2{
+    color: RGB(113, 108, 128);
+    margin-left: 12px;
+}
+
+.sc3im2{
+    position: absolute;
+    margin-left: -65px;
+    margin-top: -127px;
+}
+
+.sc3bg{
+    background-image: url(../img/home-3-img-2.jpg);
+    height: 652px;
+}
+
+.sc3img{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 286px;
+    cursor: pointer;
+}
+
+.sc4card{
+    width: 188px;
+    transition: all .2s cubic-bezier(.02,.54,.58,1);
+    width: 296px;
+    height: 393px;
+}
+
+.sc4h3{
+    color: #58468C;
+    text-align: center;
+}
+
+.sc4p{
+    color: RGB(113, 108, 128);
+    text-align: center;
+}
+
+.sc4p2{
+    position: absolute;
+    font-size: 42px;
+    margin-top: -117px;
+    margin-left: 115px;
+    color: #58468C;
+}
+
+.sc4card:hover{
+    box-shadow: 0 10px 55px 5px rgba(137,173,255,.35);
+    border-radius: 8px;
+    margin-top: -15px;
+}
+
+.sc4im{
+    margin-left: 58px;
+    margin-top: 39px;
+}
+
+
+
+
